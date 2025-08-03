@@ -15,7 +15,7 @@ model = joblib.load('forecasting_ev_model.pkl')
 st.markdown("""
     <style>
         body {
-            background-color: #fcf7f7;
+            background-color: #0a0909;
             color: #000000;
         }
         .stApp {
